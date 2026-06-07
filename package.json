@@ -17,7 +17,7 @@
     "axios": "^1.2.1",
     "fathom-client": "^3.5.0",
     "next": "^15.5.18",
-    "next-intl": "^2.10.2",
+    "next-intl": "^4.9.2",
     "node-fetch": "^2.6.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
